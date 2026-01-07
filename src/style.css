@@ -94,3 +94,9 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+
+h1{
+  color: #646cff; 
+  margin-left: 10px;
+}
